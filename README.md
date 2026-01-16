@@ -33,8 +33,8 @@ Identify high-value loan purposes and sub-grade performance.
    Personal and discretionary purposes such as medical, education, vacation, and renewable energy contribute comparatively less.
 
 # Key Learnings
-Designed business-focused KPIs for financial analysis.
-Improved skills in data modeling, DAX measures, and visualization best practices.
-Gained hands-on experience in banking and financial domain analytics.
+Designed business-focused KPIs for financial analysis. 
+Improved skills in data modeling, DAX measures, and visualization best practices. 
+Gained hands-on experience in banking and financial domain analytics. 
 
 
