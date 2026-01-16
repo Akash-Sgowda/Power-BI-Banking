@@ -37,4 +37,7 @@ Designed business-focused KPIs for financial analysis.
 Improved skills in data modeling, DAX measures, and visualization best practices. 
 Gained hands-on experience in banking and financial domain analytics. 
 
+# Snapshot / Demo
+https://github.com/Akash-Sgowda/Power-BI-Banking/blob/main/Snapshot%20Banking.png
+
 
